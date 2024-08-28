@@ -256,7 +256,7 @@ export const projects = [
     tags: ["React Js","CSS"],
     category: "web app",
     github: "https://github.com/swathi489/react_weatherapp.git",
-    webapp: "https://swathi489.github.io/machine-slot-game/",
+    webapp: "https://drive.google.com/file/d/19dB8Qrueskj1PVGO0_JJNoom_YeyBP-o/view?usp=sharing",
   },
 
   {
